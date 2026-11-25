@@ -93,8 +93,15 @@ logo/svg/    vector masters
 logo/png/    raster exports (icons at 16, 32, 48, 180, 192 and 512 px)
 favicon/     favicon.ico (16, 32, 48), favicon.svg, apple-touch-icon.png
 docs/        figures used on this page
+products/    product-specific marks and assets (see below)
 scripts/     build.py regenerates everything above
 ```
+
+## Products
+
+Product marks follow the same 128 x 128 grid and fixed `#c8553d` ember:
+
+- [Keepraw Fly](products/fly/README.md) — Great-Circle Arc mark, Aviation (`#0c0a24`) app icons, favicons and lockups (`products/fly/`).
 
 For a website:
 
